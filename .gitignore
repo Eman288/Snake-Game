@@ -1,0 +1,72 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / MonoDevelop generated files
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity Asset Store tools
+Assets/AssetStoreTools*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Desktop.ini
+
+# Unity Cache Server
+CacheServer/
+
+# Packaging and compressed files
+*.zip
+*.rar
+*.7z
+
+# Logs and crash reports
+*.log
+*.stacktrace
+crash-reports/
+
+# Builds
+*.apk
+*.aab
+*.exe
+*.app
+*.xcodeproj
+
+# Miscellaneous
+*.swp
+*.bak
+*.tmp
+*.temp
+*.gid
+*.idb
+*.pdb
+
+# Auto-generated lightmaps
+/Assets/**/LightingData.asset
+
+# Unity Test Results
+TestResults/
+
+# JetBrains Rider project files
+.idea/
+*.sln.iml
