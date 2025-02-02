@@ -1,6 +1,7 @@
 # 🐍 Snake Game
 
-[snakegame]('snake.png)
+![Game Screenshot](https://github.com/Eman288/Snake-Game/blob/main/snake.png)
+
 
 A simple 3D Snake game built using Unity! 🎮 This project is a fun implementation of the classic Snake game with smooth controls, an intuitive UI, and an engaging gameplay experience.
 
@@ -27,7 +28,7 @@ A simple 3D Snake game built using Unity! 🎮 This project is a fun implementat
 You can also play it on Windows here [itch.io]('https://emma288.itch.io/snake-game')
 
 ## 👩‍💻 Technologies Used
-- **Unity** (Game Engine)
+- **Unity Version 2018.2.2f1** (Game Engine)
 - **C#** (Programming Language)
 
 ## 🚀 Future Improvements
